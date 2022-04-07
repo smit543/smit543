@@ -1,4 +1,4 @@
-### Hi there 👋
+hii! there smit
 
 <!--
 **smit543/smit543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
